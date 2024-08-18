@@ -1,2 +1,3 @@
 # sonar-rock-vs-mine-
 Sonar rock vs mine prediction using machine learning
+Using the Sonar dataset from the UCI Machine Learning Repository, this project attempts to develop a machine learning model that will categorize sonar returns as either rocks or mines. The 208 cases in the dataset each have 60 continuous attributes (labeled "R" for rocks and "M" for mines) that reflect energy in frequency bands. The project is divided into various sections, including data preprocessing, model training, and evaluation, with all code and notebooks. Cloning the repository, creating a virtual environment, and installing the required dependencies are all part of the installation process.
